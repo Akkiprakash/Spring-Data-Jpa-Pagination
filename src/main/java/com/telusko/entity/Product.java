@@ -73,7 +73,6 @@ public class Product
 
 	public Product( String productName, String category, Double price, Integer quantity) {
 		super();
-		
 		this.productName = productName;
 		this.category = category;
 		this.price = price;
